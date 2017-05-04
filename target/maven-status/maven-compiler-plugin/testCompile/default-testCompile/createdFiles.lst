@@ -1,0 +1,3 @@
+com\czeczotka\bdd\runner\RunCalculatorTest.class
+com\czeczotka\bdd\steps\User.class
+com\czeczotka\bdd\steps\CalculatorSteps.class
